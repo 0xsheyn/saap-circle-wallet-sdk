@@ -1,0 +1,42 @@
+# Web3 Payment App – Circle Wallet Setup & Auth State
+
+This project is part of the **Building a Web3 Payment App (Fullstack Series)** where we build a real-world payment application step by step using modern Web3 tools and infrastructure.
+
+In this part of the series, we integrate **Circle Developer-Controlled Wallets**, manage authentication state using **Zustand**, and connect authenticated users to wallet infrastructure.
+
+---
+
+## 🚀 Features
+
+- Web3 Authentication using Privy
+- Circle Developer-Controlled Wallets
+- Wallet Set Creation
+- Wallet Creation (Base Sepolia)
+- Zustand Auth State Management
+- Backend Token Verification
+- User Wallet Linking
+
+---
+
+## ⚙️ Tech Stack
+
+### Frontend
+- React
+- Zustand
+- Privy Auth
+
+### Backend
+- Node.js
+- Express
+- Circle SDK
+
+### Blockchain
+- Base Sepolia
+
+---
+
+## 📁 Project Structure
+
+```bash
+client/      # Frontend application
+server/      # Backend API
